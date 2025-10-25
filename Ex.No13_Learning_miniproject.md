@@ -1,7 +1,7 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 10 Machine Learning  
 ### DATE: 25/10/2025                                                                           
 ### REGISTER NUMBER : 212223060213
-### Mental Health Prediction Using Machine Learning
+# Mental Health Prediction Using Machine Learning
 
 ## AIM
 To predict whether an employee has a mental health issue based on workplace and personal factors (age, gender, family history, work interference, remote work) using a machine learning model.
@@ -83,7 +83,7 @@ results.head(10)
 <img width="338" height="676" alt="image" src="https://github.com/user-attachments/assets/90bf5551-6fa9-4af5-8c98-da28e93fae03" />
 
 ## Result:
-Accuracy 
+The Logistic Regression model can successfully predict the probability of an employee having a mental health issue based on workplace factors and family history. The model achieved an accuracy of approximately 85%, indicating good predictive performance.
 
 
 
