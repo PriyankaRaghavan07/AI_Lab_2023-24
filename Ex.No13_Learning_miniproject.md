@@ -74,7 +74,7 @@ results = pd.DataFrame({
     'Predicted': y_pred
 })
 results.head(10)
-
+```
 ## Output
 <img width="1282" height="362" alt="image" src="https://github.com/user-attachments/assets/a6b8a6fa-2db8-4d82-97f3-390df2be9e8f" />
 
